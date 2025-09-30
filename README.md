@@ -1,10 +1,10 @@
-Hi there! 👋 I'm Jose
+Hi there! 👋 I'm Cleve
 About Me
-I'm Jose, a 20-year-old Information Technology (IT) student eager to learn and build! I'm passionate about coding and constantly exploring new technologies in the world of web development.
+I'm Cleve, a 20-year-old Information Technology (IT) student eager to learn and build! I'm passionate about coding and constantly exploring new technologies in the world of web development.
 
 🎓 Currently Studying: Information Technology
 
-📍 Location: [Your City/Country - Optional]
+📍 Location: Philippines
 
 💻 Aspiring To Be: A skilled Software Developer
 
@@ -17,8 +17,3 @@ Java: My primary language for object-oriented programming fundamentals and backe
 JavaScript (JS): Essential for front-end interactivity and full-stack capabilities.
 
 HTML & CSS: The foundational building blocks of all my web projects.
-
-Learning & Exploring
-[Add a specific framework/library you're learning, e.g., React, Spring Boot, Node.js, etc.]
-
-[Add another specific skill, e.g., Databases (SQL/NoSQL), Git commands, Cloud platforms (AWS/Azure), etc.]
