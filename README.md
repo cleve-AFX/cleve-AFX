@@ -11,9 +11,7 @@ I'm Cleve, a 20-year-old Information Technology (IT) student eager to learn and 
 My Toolkit 🛠️
 I'm currently focused on the following languages and technologies:
 
-Languages
-Java: My primary language for object-oriented programming fundamentals and backend development.
-
-JavaScript (JS): Essential for front-end interactivity and full-stack capabilities.
-
-HTML & CSS: The foundational building blocks of all my web projects.
+Languages:
+Java
+JavaScript (JS)
+HTML & CSS
